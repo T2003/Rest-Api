@@ -28,10 +28,11 @@
     "nodemon": "^2.0.15",
     "path": "^0.12.7",
     "sinon": "^13.0.2",
-    "swagger-ui-express": "^4.3.0"
-  },
-  "devDependencies": {
+    "swagger-ui-express": "^4.3.0",
     "dotenv": "^16.0.0",
     "nyc": "^15.1.0"
+  },
+  "devDependencies": {
+   
   }
 }
